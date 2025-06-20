@@ -15,7 +15,6 @@ This document explains the structure of the Dweb Installer project.
 
 - `build-installer.bat` - Windows script to build the installer
 - `build-installer-linux.sh` - Linux script to build the installer
-- `generate-checksum.sh` - Script to generate checksums for verification
 
 ## GitHub Files
 
