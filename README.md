@@ -1,4 +1,4 @@
-# Dweb One-Click Installer
+# Atlas/Dweb One-Click Installer
 
 This is a simple installer for setting up Dweb on Windows for Dweb Publishing & Atlas use.
 
