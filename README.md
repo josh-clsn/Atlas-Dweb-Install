@@ -34,12 +34,6 @@ Simply double-click the "Start Dweb" shortcut on your desktop. This will:
 - Start the Dweb server
 - Open Atlas in your default browser
 
-## Useful Commands
-
-Once Dweb is running, you can use these commands in the PowerShell terminal:
-- `./dweb list-names` - List all available names of sites to load directly from Dweb
-- `./dweb open <name>` - Open a specific site by name
-
 ## Troubleshooting
 
 - If Dweb fails to start the first time, it may be blocked by Windows Defender or your antivirus. Click "Allow" or "Unblock" when prompted, then try again.
