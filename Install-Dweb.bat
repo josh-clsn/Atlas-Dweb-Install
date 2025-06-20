@@ -1,0 +1,3 @@
+@echo off
+echo Starting Dweb Installer...
+powershell -ExecutionPolicy Bypass -File "%~dp0install-dweb.ps1" 

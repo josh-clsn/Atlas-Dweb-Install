@@ -1,0 +1,32 @@
+# Compiled installer
+# Uncomment the line below if you don't want to include the compiled installer in the repo
+# Dweb-Installer.exe
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux system files
+*~
+.directory
+.Trash-*
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project 

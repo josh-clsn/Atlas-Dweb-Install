@@ -1,0 +1,15 @@
+Dweb Installer License Agreement
+
+By installing and using this software, you agree to the following:
+
+1. This installer is provided "as is" without warranty of any kind, either expressed or implied.
+
+2. The Dweb software is subject to its own license terms, which can be found on the Dweb GitHub repository.
+
+3. You are responsible for keeping your MetaMask private key secure. This installer does not transmit your private key over the internet, but stores it locally on your computer to enable Dweb functionality.
+
+4. You understand that blockchain and cryptocurrency applications involve inherent risks, and you are responsible for managing these risks.
+
+5. You will comply with all applicable laws and regulations when using this software.
+
+By proceeding with the installation, you acknowledge that you have read and agree to these terms. 

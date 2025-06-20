@@ -1,0 +1,16 @@
+# Dweb Installer Checksums
+Generated on: Fri Jun 20 07:16:13 AM EDT 2025
+
+## SHA256 Checksums
+
+```
+e0de9a15e13859d1f5020c972f60adaa7d941b9b020fc851628b92f14b934751  Dweb-Installer.exe
+2e6469f1b679185cba51e7fdb5a82738109e4b0158cefd6d730a828c7584fc15  install-dweb.ps1
+73c1d2f40f46763627ee9c4e5f5c31dd676a627df5f5f5f5ecf2b4d1d31c0d7e  Install-Dweb.bat
+41bfa1941546db110532e51b48a76672ab58ae29a3dc9bcf30de3aaf3afacc63  README.md
+47b9ef346a83e54378efa2acec18900dc7936bc44e5a3cd8bb041ea83a9de0b2  license.txt
+cebc5f6fcb4211de1dd2fcd57bef5565c50b519e5e6ae495e5acd1cdeb0bda44  dweb-installer.nsi
+bf218b80ac352dd1b62eb7ada25c79947eb348c0e265c52a20750c6a329ea902  build-installer-linux.sh
+05cd1479e25b8884f1402d9faf1c6d8d8f65c60285127dcaabfe3ebf28ad5028  build-installer.bat
+```
+
